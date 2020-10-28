@@ -2,11 +2,3 @@
 feign:
   view-api:
     url: http://localhost:8088
----
-
-spring:
-  profiles: docker
-
-
-server:
-  port: 8080
